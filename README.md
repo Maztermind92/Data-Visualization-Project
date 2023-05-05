@@ -1,4 +1,12 @@
-<h1 style="font-size: 36px;">Alice in Wonderland Analysis:</h1>
+<h1 style="font-size: 30px;">Alice in Wonderland Analysis:</h1>
+<h1 style="font-size: 30px;">Dataset:</h1>
+<h1 style="font-size: 30px;">Project Structure:</h1>
+<h1 style="font-size: 30px;">Network Analysis:</h1>
+<h1 style="font-size: 30px;">Sentiment Analysis:</h1>
+<h1 style="font-size: 30px;">Word Clouds:</h1>
+<h1 style="font-size: 30px;">Conclusion:</h1>
+<h1 style="font-size: 30px;">Acknowledgments:</h1>
+
 
 # Data-Visualization-Project
 Alice in Wonderland Analysis:
