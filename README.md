@@ -23,7 +23,7 @@ The network analysis part of the project involves analyzing the relationships be
 
 <h1 style="font-size: 28px;">Sentiment Analysis:</h1>
 
-The sentiment analysis part of the project involves analyzing the sentiment of the text using the TextBlob library. TextBlob is a Python library that provides an easy-to-use interface for performing various NLP tasks, including sentiment analysis. The sentiment analysis is performed on each sentence in the text, and the overall sentiment of the text is determined based on the average sentiment score of all the sentences.
+The sentiment analysis part of the project involves analyzing the sentiment of the text using the TextBlob library. TextBlob is a Python library that provides an easy-to-use interface for performing various NLP tasks, including sentiment analysis. The sentiment analysis is performed on each sentence in the text, and the overall sentiment of the text is determined based on the average sentiment score of all the sentences.The sentiment score is a measure of the positivity or negativity of a text, with a score of 0 indicating a neutral sentiment, and scores closer to 1 or -1 indicating positive or negative sentiment, respectively.
 The results of our analysis can be found in Sentiment Analysis.ipynb.
 
 <h1 style="font-size: 28px;">Word Clouds:</h1>
@@ -31,7 +31,7 @@ The results of our analysis can be found in Sentiment Analysis.ipynb.
 We created word clouds to visualize the most frequently used words in the text. We used the Python wordcloud library to create the word clouds. The results of our analysis can be found in WordCloud.ipynb.
 
 <h1 style="font-size: 28px;">Conclusion:</h1>
-Conclusion:
+
 Through our analysis, we gained insights into the relationships between characters, the sentiment of the novel, and the most frequently used words. This project demonstrates the usefulness of text analysis techniques in gaining a deeper understanding of literature.
 
 <h1 style="font-size: 28px;">Acknowledgments:</h1>
