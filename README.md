@@ -23,7 +23,7 @@ The network analysis part of the project involves analyzing the relationships be
 
 <h1 style="font-size: 28px;">Sentiment Analysis:</h1>
 
-The sentiment analysis part of the project involves analyzing the sentiment of the text using the TextBlob library. TextBlob is a Python library that provides an easy-to-use interface for performing various NLP tasks, including sentiment analysis. The sentiment analysis is performed on each sentence in the text, and the overall sentiment of the text is determined based on the average sentiment score of all the sentences.The sentiment score is a measure of the positivity or negativity of a text, with a score of 0 indicating a neutral sentiment, and scores closer to 1 or -1 indicating positive or negative sentiment, respectively.
+The sentiment analysis part of the project involves analyzing the sentiment of the text using the TextBlob library. TextBlob is a Python library that provides an easy-to-use interface for performing various NLP tasks, including sentiment analysis. The sentiment analysis is performed on each sentence in the text, and the overall sentiment of the text is determined based on the average sentiment score of all the sentences.The sentiment score is a measure of the positivity or negativity of a text, with a score of 0 indicating a neutral sentiment, and scores closer to 1 or -1 indicating positive or negative sentiment, respectively. The main emotions considered are happiness, sadness, surprise, anger, and neutral.
 The results of our analysis can be found in Sentiment Analysis.ipynb.
 
 <h1 style="font-size: 28px;">Word Clouds:</h1>
