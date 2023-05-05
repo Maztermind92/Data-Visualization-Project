@@ -1,3 +1,5 @@
+<h1 style="font-size: 36px;">Alice in Wonderland Analysis:</h1>
+
 # Data-Visualization-Project
 Alice in Wonderland Analysis:
 This project is focused on analyzing the text of Alice in Wonderland by Lewis Carroll. The analysis includes network analysis, sentiment analysis, and word cloud generation. The project is implemented using Python and various Python libraries such as Pandas, NetworkX, TextBlob, and WordCloud.
